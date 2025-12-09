@@ -1,0 +1,16 @@
+# Large files and datasets
+Datasets_journal-officiel/
+RAG_Cache_Incremental/
+chroma_db/
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+.venv
+venv/
